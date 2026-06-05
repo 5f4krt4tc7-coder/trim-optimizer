@@ -1,0 +1,20 @@
+{
+  "short_name": "Trim Optimizer",
+  "name": "Trim Optimizer - Cut List Calculator",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#070f18",
+  "background_color": "#070f18"
+}
